@@ -6,7 +6,7 @@
 This project is a comprehensive Excel-based Credit Risk & NPA Monitoring tool designed to streamline branch-level credit workflows.  
 It consolidates loan-level MIS, borrower financials, Early Warning Indicators (EWI), provisioning rules, ageing buckets, and an audit checklist — all supported by dashboards and automated formulas.
 
-## 📂 Contents of the Project  
+## Contents of the Project  
 **1. Loan Monitoring Module**  
 - Loan master sheet (30 sample records)  
 - Fields include: Loan_ID, Branch, Customer, Loan Amount, CIBIL, DSCR, LTV, Collateral Cover, Overdue Days, Status  
