@@ -77,10 +77,6 @@ It consolidates loan-level MIS, borrower financials, Early Warning Indicators (E
 5. Use the Dashboard for portfolio monitoring.  
 6. Use the Audit Checklist before internal / concurrent audits.  
 
-##  Screenshots (optional)  
-Add images such as:  
-![Dashboard](screenshots/dashboard.png)
-
 ## Skills Demonstrated  
 - Credit Risk Analysis  
 - Early-Warning Indicators  
@@ -96,5 +92,5 @@ Developed an Excel-based Credit Assessment & NPA Tracking tool that centralised 
 ## License  
 Open for personal/portfolio use.
 
-## 🤝 Contributions  
+## Contributions  
 Fork the repo or suggest improvements.
